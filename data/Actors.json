@@ -9,5 +9,5 @@ null,
 {"id":7,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,0,0,3,0],"faceIndex":5,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"主人公","nickname":"創遊者","note":"","profile":""},
 {"id":8,"battlerName":"Actor2_3","characterIndex":2,"characterName":"Actor2","classId":3,"equips":[3,1,2,3,0],"faceIndex":2,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kikuto","nickname":"デバッガ","note":"","profile":"【】"},
 {"id":9,"battlerName":"Actor3_5","characterIndex":4,"characterName":"Actor3","classId":4,"equips":[4,1,2,3,0],"faceIndex":4,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"yoshi","nickname":"シナリオライタ","note":"","profile":"【】"},
-{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":10,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":1,"equips":[1,0,0,3,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"JJJ","nickname":"デバッガ","note":"","profile":"【】"}
 ]
