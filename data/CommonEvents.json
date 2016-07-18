@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"list":[{"code":129,"indent":0,"parameters":[1,1,false]},{"code":129,"indent":0,"parameters":[2,1,false]},{"code":129,"indent":0,"parameters":[3,1,false]},{"code":129,"indent":0,"parameters":[4,1,false]},{"code":129,"indent":0,"parameters":[5,1,false]},{"code":129,"indent":0,"parameters":[6,1,false]},{"code":129,"indent":0,"parameters":[8,1,false]},{"code":129,"indent":0,"parameters":[10,1,false]},{"code":0,"indent":0,"parameters":[]}],"name":"party_dismiss","switchId":1,"trigger":0}
+{"id":1,"list":[{"code":129,"indent":0,"parameters":[1,1,false]},{"code":129,"indent":0,"parameters":[2,1,false]},{"code":129,"indent":0,"parameters":[3,1,false]},{"code":129,"indent":0,"parameters":[4,1,false]},{"code":129,"indent":0,"parameters":[5,1,false]},{"code":129,"indent":0,"parameters":[6,1,false]},{"code":129,"indent":0,"parameters":[8,1,false]},{"code":129,"indent":0,"parameters":[10,1,false]},{"code":129,"indent":0,"parameters":[9,1,false]},{"code":0,"indent":0,"parameters":[]}],"name":"party_dismiss","switchId":1,"trigger":0}
 ]
